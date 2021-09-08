@@ -1,1 +1,2 @@
-# random-color-generator
+# JS practice
+
